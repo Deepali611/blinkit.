@@ -1,0 +1,190 @@
+row_number,repeat_buying_signal,category_mentioned,barrier_to_new_category,reason_type,info_needed,user_segment,duplicate_flag,confidence
+6,yes,toys/collectibles,none,other,not stated,heavy_user,no,med
+10,no,none,none,trust,not stated,one_time_complainer,no,high
+14,no,none,none,trust,not stated,one_time_complainer,yes,high
+20,no,none,none,trust,not stated,one_time_complainer,yes,high
+22,no,electronics,safety concerns,trust,seller verification,quality_focused,no,high
+40,no,bouquets,none,trust,none,one_time_complainer,no,high
+43,no,electronics,distrust electronics,trust,authenticity guarantee,quality_focused,no,high
+44,no,milk/dairy,none,trust,freshness guarantee,quality_focused,no,high
+47,no,none,none,trust,not stated,one_time_complainer,no,med
+52,no,none,none,trust,not stated,one_time_complainer,yes,high
+63,no,none,none,price,not stated,price_sensitive,yes,high
+67,no,medicines,none,trust,none,quality_focused,no,med
+72,no,milk/dairy,none,trust,expiry visibility,quality_focused,yes,high
+73,no,snacks,none,price,not stated,price_sensitive,no,high
+77,no,none,none,trust,not stated,one_time_complainer,yes,med
+79,no,food(unclear),none,trust,clearer complaint process,one_time_complainer,no,med
+85,no,pest control,none,trust,none,one_time_complainer,no,high
+88,no,beverage,none,trust,none,quality_focused,no,high
+93,no,none,none,price,price comparison tool,price_sensitive,no,med
+97,no,none,none,trust,none,one_time_complainer,no,med
+98,no,ice cream/frozen,none,trust,cold-chain guarantee,quality_focused,no,high
+101,no,none,none,trust,none,one_time_complainer,no,med
+109,no,none,none,trust,authenticity verification,quality_focused,yes,high
+111,no,none,none,trust,none,one_time_complainer,no,low
+115,no,none,none,trust,billing transparency,one_time_complainer,no,high
+122,no,none,none,trust,payment security,one_time_complainer,no,high
+125,no,electronics,none,trust,none,quality_focused,yes,high
+127,no,eggs,none,trust,quality cert visibility,quality_focused,no,high
+129,no,none,stock unavailable,other,real-time stock accuracy,unclear,no,med
+133,no,shoes/fashion,none,trust,none,one_time_complainer,no,high
+138,no,none,none,trust,authenticity signals,unclear,no,med
+139,no,vouchers,none,trust,none,one_time_complainer,no,high
+141,no,electronics(PS5),tampering risk,trust,tamper-evident packaging,quality_focused,yes,high
+142,no,none,none,trust,mandatory expiry display,quality_focused,no,high
+144,no,ice cream,none,convenience,not stated,unclear,no,low
+148,no,electronics,none,trust,none,quality_focused,yes,high
+150,no,none,none,price,price accuracy,price_sensitive,yes,high
+151,no,none,none,trust,none,one_time_complainer,no,med
+156,no,electronics(PS5),tampering risk,trust,tamper-evident packaging,quality_focused,yes,high
+158,no,packaged food,none,trust,expiry check pre-dispatch,quality_focused,no,high
+163,no,beverage,none,trust,none,quality_focused,yes,high
+165,no,cooking oil,none,trust,authenticity seal,quality_focused,no,high
+166,no,ice cream/frozen,perishable delay risk,trust,delivery time guarantee,quality_focused,no,high
+171,no,electronics,none,trust,none,quality_focused,yes,high
+172,no,fruit,none,trust,none,quality_focused,no,high
+174,no,food/ingredients,ingredient transparency,trust,accurate labeling,quality_focused,no,high
+177,no,supplements,none,trust,authenticity verification,quality_focused,no,high
+182,no,toys,used not new,trust,condition guarantee,quality_focused,no,high
+185,yes,snacks/food,none,convenience,not stated,heavy_user,no,med
+188,no,none,confusing UI,no_discovery,simpler interface,unclear,no,med
+190,no,none,unaware features exist,no_discovery,feature awareness,unclear,no,med
+196,no,none,none,habit,not stated,unclear,no,med
+197,yes,none,none,price,price transparency,price_sensitive,yes,high
+198,yes,none,none,price,none,price_sensitive,yes,high
+201,yes,none,none,price,none,price_sensitive,no,high
+250,no,none,none,other,none,light_new_user,no,med
+256,yes,groceries,none,habit,none,heavy_user,no,high
+260,no,none,none,price,price transparency,price_sensitive,no,high
+261,yes,groceries/electronics/medicines/flowers,none,convenience,none,heavy_user,no,high
+271,yes,none,none,price,none,price_sensitive,no,high
+276,no,none,none,convenience,none,unclear,no,high
+293,yes,groceries,none,convenience,none,heavy_user,no,high
+297,no,vegetables,none,price,none,price_sensitive,no,high
+304,no,groceries,prefers offline,habit,none,one_time_complainer,yes,high
+309,yes,groceries,none,habit,none,heavy_user,yes,high
+332,no,personal care,none,other,none,unclear,no,low
+337,no,groceries,none,price,native price comparison,price_sensitive,no,low
+338,no,gifting,none,other,none,heavy_user,no,med
+341,no,tobacco,none,price,none,price_sensitive,no,high
+342,no,snacks,none,other,none,unclear,no,low
+343,yes,none,none,habit,none,heavy_user,yes,high
+344,no,none,no price comparison,price,price comparison feature,price_sensitive,yes,med
+414,no,coffee/bistro,none,price,none,unclear,no,med
+415,no,vouchers,none,price,none,price_sensitive,no,med
+421,yes,groceries,none,price,none,price_sensitive,yes,high
+422,no,vegetables/produce,cheaper+better locally,price,quality assurance vs local,price_sensitive,yes,high
+428,no,electronics(PS5),safety high-value,trust,tamper-evident packaging,quality_focused,yes,high
+435,no,gold/jewelry,safety buying online,trust,authenticity cert,quality_focused,yes,high
+438,no,snacks,limited catalog,no_discovery,wider assortment,quality_focused,yes,high
+440,no,eggs,none,other,none,unclear,no,low
+442,no,precious metals,not available,no_discovery,expand catalog,unclear,no,high
+443,no,groceries(rajma),none,trust,quality recommendations,quality_focused,no,med
+506,no,none,no return policy high-value,trust,clear high-value return policy,one_time_complainer,no,high
+522,no,none,not available in city,other,expand coverage,unclear,no,high
+538,no,none,none,price,tax/fee transparency,price_sensitive,no,med
+579,no,none,none,trust,COD/UPI clarity,one_time_complainer,no,med
+613,no,none,inconsistent delivery detection,other,accurate serviceability check,unclear,no,high
+620,no,none,poor packaging,trust,better packaging QC,quality_focused,no,high
+631,no,none,replace policy poor,trust,working replacement process,one_time_complainer,no,med
+642,no,none,none,price,none,price_sensitive,no,high
+650,no,none,none,price,surge pricing transparency,price_sensitive,no,med
+652,yes,none,no return option,trust,working return flow,heavy_user,no,high
+660,no,none,none,trust,delivery confirmation,one_time_complainer,no,high
+662,yes,eggs,none,trust,QC on perishables,heavy_user,no,high
+664,no,beverage,none,trust,order-mod transparency,one_time_complainer,no,high
+667,no,none,none,trust,payment status visibility,one_time_complainer,no,high
+677,no,none,none,trust,wallet reliability,one_time_complainer,no,high
+682,no,none,inaccurate cart availability,price,real-time stock accuracy,price_sensitive,no,high
+689,no,none,none,price,fee transparency,price_sensitive,no,med
+690,no,none,none,trust,expiry QC pre-dispatch,quality_focused,no,high
+691,no,none,none,price,MRP compliance,price_sensitive,no,med
+703,no,none,none,price,fee/carrybag transparency,price_sensitive,no,med
+705,no,personal care,none,trust,promo fulfillment guarantee,one_time_complainer,no,high
+707,no,none,none,price,none,price_sensitive,no,high
+713,yes,snacks,none,trust,expiry QC,heavy_user,no,high
+716,no,none,false cancellation charge,trust,fair cancellation policy,one_time_complainer,no,high
+730,no,none,intrusive permission,trust,remove unnecessary permissions,quality_focused,no,med
+731,no,none,none,trust,damaged-goods return policy,one_time_complainer,no,med
+790,no,none,forced tip,trust,opt-out of tip,one_time_complainer,no,high
+791,yes,none,none,convenience,none,heavy_user,no,high
+793,no,none,stock unavailable,other,none,unclear,no,med
+795,no,none,packaging tears in rain,trust,weatherproof packaging,quality_focused,no,med
+801,no,none,none,trust,faster cancellation processing,one_time_complainer,no,high
+815,no,none,none,trust,reliable refund processing,one_time_complainer,no,high
+817,no,none,fewer offers,price,none,price_sensitive,no,high
+819,no,none,none,trust,none,one_time_complainer,no,med
+820,no,none,none,trust,refund timeline clarity,one_time_complainer,no,high
+822,no,none,none,convenience,none,unclear,no,med
+823,yes,none,none,convenience,none,heavy_user,no,high
+824,no,snacks,none,trust,sealed packaging QC,quality_focused,no,high
+833,no,none,stock unavailable long-term,other,none,unclear,yes,high
+841,no,none,none,price,none,price_sensitive,no,high
+847,no,none,none,price,min-order threshold clarity,price_sensitive,no,med
+857,no,none,promo code usability,trust,usable refund credit,one_time_complainer,no,high
+866,no,cosmetics/niche,stock unavailable niche,no_discovery,wider niche catalog,unclear,yes,high
+874,no,none,catalog gaps,other,none,unclear,no,med
+881,no,none,product size mismatch+price change,trust,consistent pricing/imagery,one_time_complainer,no,high
+886,no,vegetables,none,trust,honored compensation,quality_focused,no,high
+891,no,electronics(earbuds),none,trust,brand-platform accountability,quality_focused,yes,high
+895,no,none,none,convenience,none,unclear,no,high
+901,no,dairy,none,convenience,none,quality_focused,no,high
+910,no,none,none,trust,none,one_time_complainer,no,med
+915,no,personal care,none,trust,promo fulfillment guarantee,one_time_complainer,no,high
+918,no,none,none,price,none,price_sensitive,no,med
+923,no,none,no new-customer offer,price,new-user incentive,light_new_user,no,med
+924,no,dairy,none,trust,none,quality_focused,no,high
+925,no,none,supplier changed quality dropped,trust,none,heavy_user,no,high
+930,no,none,none,price,none,price_sensitive,no,med
+936,no,none,no order-mod window,trust,order edit/cancel window,one_time_complainer,no,med
+937,no,pet supplies,specific variant unavailable,no_discovery,maintain preferred variant,heavy_user,yes,high
+938,no,none,none,price,none,price_sensitive,no,med
+943,no,vegetables,none,trust,none,quality_focused,yes,high
+944,no,none,none,trust,coupon usability,one_time_complainer,no,med
+945,no,none,promo reneged at delivery,trust,honor displayed promos,one_time_complainer,no,high
+947,no,none,none,price,none,price_sensitive,no,med
+951,no,none,unwanted substitution,trust,substitution consent,one_time_complainer,no,high
+972,yes,none,none,convenience,none,heavy_user,no,med
+974,no,fruits,none,price,none,price_sensitive,no,med
+980,yes,none,none,trust,none,heavy_user,yes,high
+990,no,toys/collectibles,regional stock unavailable,no_discovery,regional stock visibility,unclear,no,high
+992,no,none,none,price,none,price_sensitive,no,high
+993,no,none,none,trust,none,one_time_complainer,yes,high
+1007,no,none,none,convenience,none,unclear,no,med
+1010,no,none,none,trust,faster replacement process,one_time_complainer,no,high
+1013,no,none,none,price,MRP compliance,price_sensitive,no,high
+1015,no,none,none,trust,none,one_time_complainer,no,high
+1032,no,none,none,trust,none,one_time_complainer,no,high
+1039,no,none,none,convenience,none,unclear,no,med
+1044,no,groceries(misri),limited SKU variety,no_discovery,wider SKU range,unclear,no,high
+1047,no,none,broken search,no_discovery,working search function,unclear,no,med
+1051,no,none,none,trust,none,unclear,no,med
+1052,no,none,none,price,none,price_sensitive,no,med
+1055,no,electronics,none,trust,none,quality_focused,no,high
+1056,no,none,none,trust,none,unclear,no,med
+1068,no,household essentials(soap),none,trust,none,one_time_complainer,no,high
+1078,yes,groceries/household,none,habit,none,heavy_user,no,high
+1082,no,household(umbrella),none,trust,none,unclear,no,med
+1083,no,none,none,trust,none,one_time_complainer,no,high
+1084,no,none,none,trust,none,one_time_complainer,no,high
+1087,no,groceries(tea),stock vanishing at checkout,other,none,unclear,yes,high
+1088,no,none,stock unavailable,other,none,unclear,no,med
+1103,no,none,none,trust,none,unclear,no,med
+1112,no,none,none,price,none,price_sensitive,no,med
+1113,no,none,tech difficult for seniors,other,simplified UI for elderly,senior_citizen,no,high
+1115,no,none,none,trust,none,one_time_complainer,no,high
+1117,no,none,none,trust,none,one_time_complainer,no,high
+1118,no,none,none,trust,none,one_time_complainer,no,high
+1126,no,none,none,trust,none,one_time_complainer,no,high
+1130,no,none,none,price,none,price_sensitive,yes,high
+1132,no,ice cream,none,trust,none,one_time_complainer,yes,high
+1134,no,fruits/vegetables,none,trust,quality maintenance,quality_focused,no,med
+1146,no,cooking ingredients,none,trust,none,one_time_complainer,yes,high
+1150,no,none,none,trust,none,one_time_complainer,yes,high
+1155,no,groceries,none,trust,none,unclear,no,med
+1157,no,none,none,price,none,price_sensitive,no,med
+1170,no,none,none,trust,none,one_time_complainer,no,high
+1171,no,fruits,none,trust,none,quality_focused,no,high
+1173,no,none,misleading order flow,trust,clear cart/order flow,unclear,no,med
+1176,yes,none,none,habit,none,heavy_user,yes,high
